@@ -1,3 +1,41 @@
-venv/ 
-**/venv/ 
-__pycache__/ 
+# Ignore specific project folder (if intentional)
+projects/docker-stellar-orbit/
+
+# Virtual environments
+venv/
+**/venv/
+.env/
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python version
+.python-version
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
