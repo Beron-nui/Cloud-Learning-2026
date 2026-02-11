@@ -1,3 +1,4 @@
 03-02-2026: I learned Linux Basics command [ less, head, tail] 
 03-02-2026: Working on my GitHub streak 
 04-02-2026: Mastered grep [ -n, -i, -v, -E ], chmod, chown, sudo, chgrp commands 
+ "11-02-2026: Made first PR in CNCF landscape repo" 
