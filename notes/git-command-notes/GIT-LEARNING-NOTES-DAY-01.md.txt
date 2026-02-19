@@ -1,0 +1,32 @@
+📘 Git Learning Notes — Day 01
+Topic: Branching • Rebase • Conflict Resolution • Clean Merge
+
+🎯 Objective
+
+Today I practiced:
+
+working on a feature branch
+
+handling outdated branches
+
+rebasing with main
+
+resolving merge conflicts
+
+maintaining linear commit history
+
+fast-forward merging
+
+🧠 Key Learnings
+
+Situation	Action
+Branch outdated	git rebase main
+Conflict occurs	Manual resolution
+Continue rebase	git rebase --continue
+Check history	git log --graph
+Merge feature	git merge branch
+Clean up	Delete branch
+
+SCREENSHOTS
+
+https://www.notion.so/git-learning-day-01-30c059bc7aec80df9a99e602abb58557?source=copy_link
